@@ -4,3 +4,4 @@ Git has a mutable index called staged.
 Git tracks changes.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
+11
